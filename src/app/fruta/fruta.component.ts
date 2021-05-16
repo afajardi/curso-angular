@@ -7,6 +7,6 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FrutaComponent {
 
-  public trabajos:Array<any> = ['Bombero',44,'Fontanero','Camarero',true,'Profesor'];
+  public trabajos:Array<any> = ['Bombero',44,'Fontanero','Camarero',true];
 
 }
