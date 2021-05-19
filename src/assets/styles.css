@@ -1,0 +1,7 @@
+.bordeAzul{
+    border: 5px solid lightblue !important; /**!important: predominar un estilo cuando hay conflicto**/
+}
+
+.fondoVerde{
+    background: greenyellow;
+}
