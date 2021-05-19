@@ -21,7 +21,7 @@ export class EmpleadosComponent {
     this.trabajadores = [
       new Empleado('Manolo Martinez',35,"Cocinero",false),
       new Empleado('Ana Lopez',25,"Programadora",true),
-      new Empleado('Victor Robles',45,"Electricista",false)
+      new Empleado('Victor Robles',45,"Nutricionista",false)
     ];
 
     this.trabajador_externo = true;
